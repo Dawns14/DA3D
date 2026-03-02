@@ -4,7 +4,7 @@ This repository is for K-Radar related 3D perception experiments and includes a 
 
 ## 1) Installation
 
-For installation, it is recommended to **follow the K-Radar official repository README first**, especially for Python/PyTorch/CUDA version compatibility. For this repository, you can use the minimal setup below:
+For installation, it is recommended to **follow the K-Radar official(https://github.com/kaist-avelab/K-Radar) repository README first**, especially for Python/PyTorch/CUDA version compatibility. For this repository, you can use the minimal setup below:
 
 1. Create and activate a Python environment (preferably aligned with the official K-Radar setup).
 2. Install Python dependencies:
