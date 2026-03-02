@@ -107,9 +107,3 @@ Then run:
 ```bash
 python main_train_0.py --config configs/cfg_RTNH_da3d.yml --gpus 0
 ```
-
-You can also use the script wrapper for Step 1:
-
-```bash
-bash scripts/rtnh_base.sh
-```
