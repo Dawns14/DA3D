@@ -70,7 +70,6 @@ In `models/img_cls/cls_train.py`, the config path and checkpoint save path are h
 - `path_cfg` (dataset/config file path)
 - `torch.save(...)` (best model save path)
 
-The script evaluates on the test split after each epoch and saves the checkpoint with the best accuracy.
 
 ---
 
