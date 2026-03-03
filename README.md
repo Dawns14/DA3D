@@ -106,3 +106,6 @@ Then run:
 ```bash
 python main_train_0.py --config configs/cfg_RTNH_da3d.yml --gpus 0
 ```
+
+## Acknowledgements
+This work is developed based on the [K-Radar](https://github.com/kaist-avelab/K-Radar) .
