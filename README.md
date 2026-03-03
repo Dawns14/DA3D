@@ -1,4 +1,4 @@
-# K-Radar_release
+# README
 
 This repository is for K-Radar related 3D perception experiments and includes a weather classifier training script.
 
